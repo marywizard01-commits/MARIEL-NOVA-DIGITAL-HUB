@@ -11,6 +11,11 @@ sans-serif;
     width: 300px;
 }
 
+.port-heading span {
+    font-size: 70px;
+    color: #40116b;
+    
+}
 
 
 /*PORTFOLIO*/
@@ -46,9 +51,7 @@ sans-serif;
 .port-div img {
     width: 150px;
     height: 200px;
-    border-color: rgb(133, 5, 5);
-    border-style: ridge;
-    border-width: 2px;
+    
 }
 
 .port-div span {
